@@ -1,0 +1,21 @@
+TITU
+IEEE 24 Barras                                                            
+DCTE
+(Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val) (Mn) ( Val)
+TEPA  0.01
+TEPR  0.01
+99999
+DBAR
+(Num)OETGb(   nome   )Gl( V)( A)( Pg)( Qg)( Qn)( Qm)(Bc  )( Pl)( Ql)( Sh)Are(Vf)M(1)(2)(3)(4)(5)(6)(7)(8)(9)(10
+    1 L2 1BARRA---1     1000              -999. 999.                       11000                                   
+    2 L  2BARRA---2     1000                                5.1    2       11000                                   
+    3 L  1BARRA---3     1000                               19.2 7.65       11000                                   
+    4 L  2BARRA---4     1000                               4.95 1.94       11000                                   
+99999
+DLIN
+(De )d O d(Pa )NcEP ( R% )( X% )(Mvar)(Tap)(Tmn)(Tmx)(Phs)(Bc  )(Cn)(Ce)Ns(Cq)(1)(2)(3)(4)(5)(6)(7)(8)(9)(10
+    1         2 1     23.6  67.5                                999.999.  999.                                
+    2         3 1     7.78 21.33                                999.999.  999.                                
+    2         4 1     30.6  73.2                                999.999.  999.                                
+99999
+FIM
